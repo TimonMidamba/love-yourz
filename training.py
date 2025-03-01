@@ -1,1 +1,1 @@
-print(happy life)
+print("happy life")

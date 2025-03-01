@@ -1,0 +1,1 @@
+print("love yourz cause gonna be a nigga with  betterg")
